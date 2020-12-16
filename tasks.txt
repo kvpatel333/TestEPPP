@@ -1,0 +1,37 @@
+****** Docker Hosting....! *********
+
+4/12 project completed 
+
+3 project : mstech : 1 pending from dev : 2 error : no help
+
+5 Project : linux  : pending from develoepr 
+
+******* DB Migration and recycle ******
+
+Active DB list shared with kandarp bhai : no response
+
+***** Aveva E3D software setup *******
+
+in process.
+
+******  Staad Pro Entitlement Issue ***
+
+In process
+
+****** SCOM Report configuration *****
+
+Negotiating with MS
+
+************** Server space recycle **********
+
+List prepared : discussed with jayal bhai. I'll start work soon.
+
+1. docker
+2. scom
+3. scvmm
+4. sql db migration
+5. server space cleanup
+6. ESO : primavera , E3D setup.
+
+captainmarvel@rspl.com 
+rspl123#
